@@ -22,7 +22,7 @@ The following instructions assume some comfort with using Windows.
 
 1. Install Python 3.9+ IDLE
        
-2. Download Serpendeleev (https://github.com/PietroGalizia/Serpendeleev.git) and copy and paste it on Python IDLE.
+2. Download Serpendeleev (JED - ITA.py file) from https://github.com/PietroGalizia/Serpendeleev.git and copy and paste it on Python IDLE.
     
 3. To execute a file in IDLE, simply press the F5 key on your keyboard
 
