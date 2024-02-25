@@ -10,9 +10,9 @@ Citation
 ========
 Use the following to cite this code:
 
-- Galizia, P. Jörmungandr's Elemental Diets: The World Snake https://github.com/PietroGalizia/JED.git, 2024.
+- Galizia, P. (2024). Jörmungandr's Elemental Diets: The World Snake — An Immersive Educational Videogame for Exploring the Periodic Table of Elements with Real-World Contexts and Examples. https://doi.org/10.5281/zenodo.10643098
 
-Installing and Running JED
+Installing and Running Serpendeleev: Chimica 3330
 ============================
 
 Windows Users
@@ -22,7 +22,7 @@ The following instructions assume some comfort with using Windows.
 
 1. Install Python 3.9+ IDLE
        
-2. Download JED (https://github.com/PietroGalizia/JED.git) and copy and paste it on Python IDLE.
+2. Download Serpendeleev (https://github.com/PietroGalizia/Serpendeleev.git) and copy and paste it on Python IDLE.
     
 3. To execute a file in IDLE, simply press the F5 key on your keyboard
 
@@ -31,7 +31,7 @@ The following instructions assume some comfort with using Windows.
 Copyright
 =========
 
-    Jörmungandr's Elemental Diets: The World Snake (JED)
+    Serpendeleev: Chimica 3330
     Copyright (C) 2024 Pietro Galizia
 
     This program is free software: you can redistribute it and/or modify
