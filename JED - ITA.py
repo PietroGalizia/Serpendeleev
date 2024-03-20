@@ -22,7 +22,7 @@ Diets_list = [
     "elementi della vita", #Isaac Asimov 'The Building Blocks of the Universe', Milan: A. Mondadori, 1971
     "elemeni dell'aria",
     "elementi critici", #Document 52020DC0474
-    "elementi dedli smartphone", #Figure 10 of https://doi.org/10.1016/j.jclepro.2023.138099
+    "elementi degli smartphone", #Figure 10 of https://doi.org/10.1016/j.jclepro.2023.138099
     "elementi del DNA", #https://edu.rsc.org/feature/elements-of-life/3007327.article
     "elementi radioattivi (serie di decadimento U-Th)", #Table 2 of https://doi.org/10.1016/B978-0-08-095975-7.00906-2
     "elementi considerati sicuri (grado A-E)\n in un reattore nucleare a fusione", #Figure 8 of https://doi.org/10.13182/FST19-1-146
