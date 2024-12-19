@@ -6,6 +6,10 @@ Pietro Galizia (pietro.galizia@cnr.it)
 
 If you use this code with your students and / or have any feedback, please feel free to reach out to me. I'd love to hear how it's being used.
 
+Description
+========
+Serpendeleev is an educational and engaging video game that combines the classic mechanics of Snake with the science of the periodic table. Players control a "snake" that grows as it collects elements, with gameplay designed to teach and reinforce knowledge about chemical properties, element groups, and their applications. Perfect for students, educators, and science enthusiasts, Snakeleev transforms learning into an interactive experience while challenging players to think strategically.
+
 Citation
 ========
 Use the following to cite this code:
