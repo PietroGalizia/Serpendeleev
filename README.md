@@ -1,4 +1,4 @@
-# Serpendeleev_Chimica-3330
+# Serpendeleev
 
 Author
 ======
@@ -12,7 +12,7 @@ Use the following to cite this code:
 
 - Galizia, P. (2024). Jörmungandr's Elemental Diets: The World Snake — An Immersive Educational Videogame for Exploring the Periodic Table of Elements with Real-World Contexts and Examples. https://doi.org/10.5281/zenodo.10643098
 
-Installing and Running Serpendeleev: Chimica 3330
+Installing and Running Serpendeleev
 ============================
 
 Windows Users
