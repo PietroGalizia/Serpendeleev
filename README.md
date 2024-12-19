@@ -31,7 +31,7 @@ The following instructions assume some comfort with using Windows.
 Copyright
 =========
 
-    Serpendeleev: Chimica 3330
+    Serpendeleev
     Copyright (C) 2024 Pietro Galizia
 
     This program is free software: you can redistribute it and/or modify
