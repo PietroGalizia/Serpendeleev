@@ -30,6 +30,11 @@ The following instructions assume some comfort with using Windows.
     
 3. To execute a file in IDLE, simply press the F5 key on your keyboard
 
+
+License
+=========
+
+**Serpendeleev** is licensed under the **GNU Affero General Public License v3.0 (AGPL v3.0)**.  
     
 
 Copyright
@@ -38,22 +43,32 @@ Copyright
     Serpendeleev
     Copyright (C) 2024 Pietro Galizia
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+    This program is free software: you can redistribute it and/or modify  
+    it under the terms of the GNU Affero General Public License as published by  
+    the Free Software Foundation, either version 3 of the License, or  
+    (at your option) any later version.  
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
-    GNU General Public License for more details.
+    This program is distributed in the hope that it will be useful,  
+    but WITHOUT ANY WARRANTY; without even the implied warranty of  
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
+    GNU Affero General Public License for more details.  
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    You should have received a copy of the GNU Affero General Public License  
+    along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-    | You may contact me using the email: pietro.galizia@cnr.it
-    | Or the address:
-    | Institute of Science, Technology and Sustainability for Ceramics (ISSMC; former ISTEC),
-    | National Research Council of Italy (CNR)
-    | Via Granarolo 64,
-    | 48018 Faenza, Italy,
+    
+For more information, refer to the **full license text** [here](https://www.gnu.org/licenses/agpl-3.0.en.html).  
+
+---
+
+## Contact  
+
+For inquiries, feedback, or collaboration, you can reach me at:  
+
+📧 **Email:** [pietro.galizia@cnr.it](mailto:pietro.galizia@cnr.it)  
+
+📍 **Institutional Address:**  
+Institute of Science, Technology and Sustainability for Ceramics (ISSMC; formerly ISTEC)  
+National Research Council of Italy (CNR)  
+Via Granarolo 64  
+48018 Faenza, Italy
